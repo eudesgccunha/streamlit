@@ -23,8 +23,9 @@ Crie uma pasta (pode ser na área de trabalho) com o nome "streamlit-project"
 `CD C:\Users\eudes\OneDrive\Área de Trabalho\evento-streamlit\ambiente-virtual\Scripts`
 
 ### 5º | Ative o ambiente virtual
-Para ativar: < activate >
-Para desativar: < deactivate >
+Para ativar: `activate`
+
+Para desativar: `deactivate`
 
 ### 6º | Retorne à pasta principal do projeto
 Fazer o procedimento duas vezes para voltar à pasta principal.

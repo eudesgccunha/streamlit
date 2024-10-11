@@ -1,4 +1,4 @@
-# Streamlit Projetc
+# Streamlit Project
 
 
 Ferramentas similares em função:

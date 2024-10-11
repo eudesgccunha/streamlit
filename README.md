@@ -1,8 +1,8 @@
-# streamlit
+# Streamlit Projetc
 
 
-Ferramentas
+Ferramentas similares em função:
 - streamlit
 - dash
 - flask
-- django
+- django (mais completa e customizável)

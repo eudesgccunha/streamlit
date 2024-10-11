@@ -1,4 +1,4 @@
-# Criar Ambiente de Desenvolvimento
+# Criar Ambiente Virtual de Desenvolvimento
 
 Um ambiente virtual em Python funciona como um espaço isolado para cada um dos seus projetos. 
 Isso é útil para garantir que diferentes projetos possam usar bibliotecas e versões específicas, evitando conflitos e preservando o ambiente principal do Python.
@@ -8,7 +8,7 @@ Isso é útil para garantir que diferentes projetos possam usar bibliotecas e ve
 ### 1º | Crie uma pasta na área de trabalho com o nome "evento-streamlit"
 
 ### 2º | Acesse o diretório da pasta
-CD C:\Users\datav\Desktop\evento-streamlit
+CD C:\Users\eudes\OneDrive\Área de Trabalho\evento-streamlit\
 
 ### 3º | Criar um ambiente virtual (https://docs.python.org/pt-br/3/library/venv.html)
 código python: < python -m venv ambiente-virtual >
@@ -39,7 +39,19 @@ Pressione Ctrl + C no terminal.
 <" echo print("Fala turma do evento!") > app.py ">
 streamlit run app.py
 
+### 11º | Iniciar o arquivo 
+
+Para iniciar o arquivo você pode rodar do cmd ou do terminal do VS Code.
+Faça o seguinte:
+
+- Entre na pasta colocando CD e o caminho. Ex.: `CD C:\Users\eudes\OneDrive\Área de Trabalho\evento-streamlit\`
+- Digite streamlit mais o nome da aplicação que deseja rodar. Ex.: `streamlit app.py`
+
+
 ### Comandos extras úteis:
+
+Command | Funtion
+--- | ---
 cls | Limpa o terminal.
 dir | Mostra todos os arquivos no diretório.
 mkdir <nome_do_diretório> | Cria um novo diretório.

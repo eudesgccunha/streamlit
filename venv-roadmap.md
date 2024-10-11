@@ -32,14 +32,14 @@ pip show streamlit
 ### 8º | Teste a estrutura do Streamlit
 < streamlit hello >
 
-### 9º | Para desligar a aplicação:
+### 9º | Para desligar a aplicação
 Pressione Ctrl + C no terminal.
 
 ### 10º | Crie um arquivo para iniciar o aplicativo
 <" echo print("Fala turma do evento!") > app.py ">
 streamlit run app.py
 
-### 11º | Iniciar o arquivo 
+### 11º | Iniciar o arquivo
 
 Para iniciar o arquivo você pode rodar do cmd ou do terminal do VS Code.
 Faça o seguinte:

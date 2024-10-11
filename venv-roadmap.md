@@ -27,23 +27,29 @@ Para ativar: < activate >
 Para desativar: < deactivate >
 
 ### 6º | Retorne à pasta principal do projeto
-< cd.. > | < cd .. >
+Fazer o procedimento duas vezes para voltar à pasta principal.
+
+`cd..` | `cd ..`
 
 ### 7º | Instale o Streamlit
-< pip install streamlit > Ou, para uma versão específica < pip install streamlit==1.39.0 > 
+`pip install streamlit`
+
+Ou, para uma versão específica `pip install streamlit==1.39.0`
 
 ### Verifique a instalação
-pip show streamlit
+`pip show streamlit`
 
 ### 8º | Teste a estrutura do Streamlit
-< streamlit hello >
+`streamlit hello`
 
 ### 9º | Para desligar a aplicação
 Pressione Ctrl + C no terminal.
 
 ### 10º | Crie um arquivo para iniciar o aplicativo
-<" echo print("Fala turma do evento!") > app.py ">
-streamlit run app.py
+
+`" echo print("Fala turma do evento!") > app.py "`
+
+`streamlit run app.py`
 
 ### 11º | Iniciar o arquivo
 

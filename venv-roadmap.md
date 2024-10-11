@@ -3,7 +3,7 @@
 Um ambiente virtual em Python funciona como um espaço isolado para cada um dos seus projetos. 
 Isso é útil para garantir que diferentes projetos possam usar bibliotecas e versões específicas, evitando conflitos e preservando o ambiente principal do Python.
 
-## ROTEIRO PASSO A PASSO VIA TERMINAL CMD
+## Roteiro passo-a-passo via terminal CMD
 
 ### 1º | Crie uma pasta na área de trabalho com o nome "evento-streamlit"
 

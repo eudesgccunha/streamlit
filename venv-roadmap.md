@@ -5,16 +5,22 @@ Isso é útil para garantir que diferentes projetos possam usar bibliotecas e ve
 
 ## Roteiro passo-a-passo via terminal CMD
 
-### 1º | Crie uma pasta na área de trabalho com o nome "evento-streamlit"
+### 1º | Crie uma pasta 
+Crie uma pasta (pode ser na área de trabalho) com o nome "streamlit-project"
 
 ### 2º | Acesse o diretório da pasta
-CD C:\Users\eudes\OneDrive\Área de Trabalho\evento-streamlit\
+`CD C:\Users\eudes\OneDrive\Área de Trabalho\evento-streamlit\`
 
 ### 3º | Criar um ambiente virtual (https://docs.python.org/pt-br/3/library/venv.html)
-código python: < python -m venv ambiente-virtual >
+
+ `python -m venv ambiente-virtual` 
+ 
+ ou pode nomeá-la como virtual-env, v-env, venv... 
+
+`python -m venv venv` 
 
 ### 4º | Navegue até a pasta 'Scripts' do ambiente virtual
-< CD C:\Users\eudes\OneDrive\Área de Trabalho\evento-streamlit\ambiente-virtual\Scripts >
+`CD C:\Users\eudes\OneDrive\Área de Trabalho\evento-streamlit\ambiente-virtual\Scripts`
 
 ### 5º | Ative o ambiente virtual
 Para ativar: < activate >

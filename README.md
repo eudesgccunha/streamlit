@@ -1,8 +1,9 @@
 # Streamlit Project
 
+[Streamlit Documentation](https://docs.streamlit.io/)
 
-Ferramentas similares em função:
-- streamlit
+
+Others ways:
 - dash
 - flask
-- django (mais completa e customizável)
+- django

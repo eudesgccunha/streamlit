@@ -1,3 +1,5 @@
 ambiente-virtual/
 venv/
 .venv/
+data/electricity_prices.csv
+*.csv

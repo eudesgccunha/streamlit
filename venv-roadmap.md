@@ -60,7 +60,11 @@ Faça o seguinte:
 - Entre na pasta colocando CD e o caminho. Ex.: `CD C:\Users\eudes\OneDrive\Área de Trabalho\evento-streamlit\`
 - Digite streamlit mais o nome da aplicação que deseja rodar. Ex.: `streamlit app.py`
 
-### 12º | Instalar o plotly
+### 12º | Instalar o plotly e o streamlit_option_menu
+
+`pip install plotly`
+
+`pip install streamlit_option_menu`
 
 ### Comandos extras úteis:
 
